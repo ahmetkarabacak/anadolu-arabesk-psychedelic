@@ -1,0 +1,31 @@
+# Anadolu Arabesk Psychedelic Website - Project Intelligence
+
+## Proje Özellikleri
+- Müzik şirketi web sitesi
+- Yapay zeka ile müzik üretimi
+- Anadolu arabesk psychedelic müzik türü
+
+## Teknoloji Tercihleri
+- Next.js 14+ (App Router)
+- TypeScript
+- Tailwind CSS
+- Modern, responsive tasarım
+
+## Tasarım Prensipleri
+- Anadolu arabesk psychedelic temaya uygun görsel kimlik
+- Modern ve estetik arayüz
+- Koyu tonlar ve psychedelic renkler kullanılabilir
+- Müzik temalı görseller ve animasyonlar
+
+## Önemli Notlar
+- Sosyal medya linkleri yönetilebilir olmalı
+- Forum sistemi tamamen anonim
+- Mobil uyumluluk kritik
+- Performans optimizasyonu önemli
+
+## Geliştirme Yaklaşımı
+- Component-based architecture
+- Server Components öncelikli
+- Client Components sadece gerektiğinde
+- API Routes ile backend işlemleri
+
