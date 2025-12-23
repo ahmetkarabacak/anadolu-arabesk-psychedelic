@@ -37,10 +37,6 @@ export default function SocialLinks() {
           </button>
         ))}
       </div>
-      
-      <div className="mt-8 text-center text-gray-400 text-sm">
-        <p>Sosyal medya linklerini güncellemek için <code className="bg-black/40 px-2 py-1 rounded">lib/socialLinks.ts</code> dosyasını düzenleyin</p>
-      </div>
     </div>
   )
 }
