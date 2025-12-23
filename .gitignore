@@ -41,3 +41,6 @@ next-env.d.ts
 # forum data (her deployment'ta kendi verileri olmalı)
 /data/forum.json
 
+# memory bank (local development documentation)
+/memory-bank/
+

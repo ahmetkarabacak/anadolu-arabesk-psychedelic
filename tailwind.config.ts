@@ -26,6 +26,9 @@ const config: Config = {
           purple: '#6b21a8',
           pink: '#ec4899',
           gold: '#fbbf24',
+          orange: '#ff6b35',
+          teal: '#0d9488',
+          indigo: '#4c1d95',
         }
       },
       backgroundImage: {
